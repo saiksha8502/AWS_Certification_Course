@@ -1,0 +1,16 @@
+Module 9
+1. true
+2. true
+3. Dimension
+4. Amazon s3
+5. -Source IP address of the request
+   -Time of the request
+   -Type of request
+   -Who made the request
+6. Custom Metrics
+7. true
+8. -Alarm
+   -Insufficient Data
+   -Ok
+9. true
+10. Amazon CloudWatch Alarms

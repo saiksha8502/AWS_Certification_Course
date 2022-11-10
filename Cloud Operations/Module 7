@@ -1,0 +1,14 @@
+Module 7
+1. Peering connection
+2. 5
+3. Main route Table
+4. true
+5. -AWS creates a default VPC in each Region.
+   -By default, each default VPC is available to one AWS account.
+6. all of the above
+7. true
+8. -A security group can be applied across multiple instances.
+   -Multiple security groups can be assigned to can instance.
+   -Security group associations can be added and modified after an instance is created.
+9. true
+10. subnet

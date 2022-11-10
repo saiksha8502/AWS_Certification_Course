@@ -1,0 +1,14 @@
+Module 4
+1. To ensure that applications are automatically adjusted for capacity to maintain steady, predictable performance at the lowest possible cost.
+2. Amazon Route S3
+3. Use the describe-target-health command to verify the health of the instances for any registered instances.
+4. Increases
+5. false
+6. true
+7. -Amazon CloudWatch-driven
+   -Instance Failure via Health Check
+   -Manually Triggered
+   -Scheduled Action
+8. true
+9. Application Load Balancer
+10. Weighted routing policy

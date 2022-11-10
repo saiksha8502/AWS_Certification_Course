@@ -1,0 +1,17 @@
+Module 5
+1. -Amazon ECS
+   -Amazon EKS
+   -Amazon Fargate
+2. true
+3. Tasks
+4. Amazon Elastic Container Registry(Amazon ECR)
+5. AWS Fargate
+6. -They want to manage the resources and their respective policies, and oversee security.
+   -They must move software from one environment to another through isolation.
+   -They have requirements for portability and not getting loacked into a single vendor.
+7. Amazon S3 server-side encryption
+8. true
+9. False
+10. -Kubernetes schedules containers to run on the cluster based on the available compute resources and the resource requirements of each container.
+    -Kubernetes manages a cluster of compute instances.
+    -A pod is automatically started or restarted if the pod is not running or fails

@@ -1,0 +1,76 @@
+1. -ASCII-formatted table (table)
+   -JSON
+   -Tab-delimited text (text)
+2. All of the above
+3. None of the above
+4. Amazon Neptune
+5. false
+6. spot
+7. Amazon DynamoDB
+8. Limit Amazon EC2 API calls to only development environments
+9. Mount the cache disks to an ephemeral drive
+10. Amazon S3 STANDARD Infrequent Access (IA)
+11. -DescribeAlarms
+    -ListMetrics
+12. true
+13. true
+14. stop-instances
+15. true
+16. -Deploy
+    -Change
+    -Monitor
+17. The development of reusable infrastructure templates
+18. false
+19. -Considerations of cost that vary by Region
+    -Legal requirements that are associated with data governance
+    -Reducing latency with geographical procimity to customers
+20. Access keys
+21. false
+22. true
+23. CloudFormation::Init
+24. Fn::Select intrinsic function
+25. true
+26. Container
+27. All of the above
+28. true
+29. true
+30. AWS SDKs
+31. AWS s3 mv
+32. Amazon Redshift
+33. -Purchase Reserved Instance for predictable workloads
+    -Run batch jobs on Spot Instances.
+    -Use the right-size for your instance.
+34. true
+35. Data govenance, legal requirements
+36. Amazon DynamoDB
+37. Amazon CloudFront
+38. --dry-run
+39. -Amazon Lambda
+    -Amaozn SNS
+40. Network access controls lists (network ACLs)
+41. Initialization
+42. On-Demand
+43. -Start the instance
+    -Stop the instance
+44. WebSockets
+45. Active-active failover
+46. -Completes health checks of the resource to ensure it can be reached
+    -Registers domain names.
+    -Routes traffic to the website based on the domain name that is entered.
+47. -Amazon ElastiCache
+    -Amazon DynamoDB
+48. Amazon Kinesis
+49. Map type
+50. VPC peering
+51. None of these
+52. Select or create a valid IAM role
+53. DiskWriteBytes
+54. Is not D
+55. -Data/Time
+    -Opt in/Opt out
+56. The resources that will use the role; also, a policy dependency must be added
+57. -Delete excess(過量) instance
+    -Request a limit increase
+58. The stack might be in an unrecoverable state
+59. --query 'Reservations[].Instances[].State.Name'
+60. Parameters

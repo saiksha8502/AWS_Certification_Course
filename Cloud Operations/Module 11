@@ -1,0 +1,12 @@
+Module 11
+1. true
+2. Fn::Select
+3. AWS::CloudFormation::Init
+4. AWS CloudFormation
+5. true
+6. Launch templates
+7. -AWS CLI commands
+   -Code that describes AWS resources
+8. true
+9. Init
+10. true

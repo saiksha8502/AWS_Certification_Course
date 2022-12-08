@@ -1,0 +1,12 @@
+Module 3
+1. AWS edge locations
+2. decrease
+3. True
+4. AWS Regions
+5. Fault tolerant, elastic and scalable
+6. True
+7. A data center can be used for more than one Availability Zone.
+8. - Each Region is located in a separate geographic area.
+   - A Region is a physical location that has multiple Availability Zones.
+9. multiple
+10. False

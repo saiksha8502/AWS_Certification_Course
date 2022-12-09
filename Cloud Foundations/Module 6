@@ -1,0 +1,12 @@
+Module 6
+1. Amazon EC2 instances can be launched on-demand when needed.
+2. Scheduled Reserved Instances
+3. All of the above
+4. Dedicated Instances
+5. AWS Lambda
+6. AWS Elastic Beanstalk
+7. Run four Reserved Instances constantly, then add eight On-Demand Instances on the last day of each month.
+8. False
+9. Reserved Instances
+10. - Amazon EC2 instance type
+    - Amazon Machine Image (AMI)

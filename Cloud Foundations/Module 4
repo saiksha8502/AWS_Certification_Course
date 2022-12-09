@@ -1,0 +1,16 @@
+Module 4
+1. Security of the Cloud
+2. - Encryption of data at rest and data in transit
+   -Security group configurations
+3. Maintaining physical hardware
+4. - AWS Management Console access
+   - Programmatic access
+5. True
+6. - Manage access to AWS resources
+   - Define fine-grained access rights.
+7. Change the AWS support plan
+8. Delete the access keys of the AWS account root user
+or
+Delete root user access keys
+9. Enable multi-factor authentication
+10. False

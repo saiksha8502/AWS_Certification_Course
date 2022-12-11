@@ -1,0 +1,15 @@
+Module 7:
+1. True
+2. in multiple Availability Zones within the same Region
+3. - Simple Storage Service Glacier
+   - S3 - Infrequent Access
+   - S3 - Standard Access
+4. worldwide across all AWS accounts
+5. implement storage for Amazon EC2 instances that multiple virtual machines can access at the same time.
+6. - requires an encryption solution
+   - must be quickly accessible, requiring long-term persistence
+7. False
+8. A container for storing archives
+9. True
+10. - Amazon EBS volumes can be encrypted transparently to workloads on the attached instance.
+    - Data stored on Amazon EBS is automatically replicated within an Availability Zone.

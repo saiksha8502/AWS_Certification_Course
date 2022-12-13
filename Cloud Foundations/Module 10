@@ -1,0 +1,22 @@
+Module 10
+1. Amazon EC2 Auto Scaling
+   Elastic Load Balancing
+2. Amazon Simple Notification Service (Amazon SNS)
+3. Responds to changing conditions by adding or terminating instances
+   Launches instances from a specified Amazon Machine Image (AMI)
+   Enforces a minimum number of running Amazon EC2 instances
+4. A listener
+5. Amazon Machine Image (AMI)
+   Instance type
+   Amazon Elastic Block Store (Amazon EBS) volumes
+6. Amazon CloudTrail
+7. Maximum size
+   Desired capacity
+   Minimum size
+8. AWS CloudTrail
+9. Stops routing traffic to that target
+   Resumes routing traffic when it detects that the target is healthy again
+   Routes traffic to a healthy target
+10. Application Load Balancer
+    Network Load Balancer
+    Classic Load Balancer
